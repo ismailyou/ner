@@ -10,8 +10,8 @@ In order to understand the meaning from a given text (tweet, document), it is im
 4.   Load Dependencies
 5.   Load Corpus
 6.   Basic Named Entity (NE) tagging using NLTK
-    - Word Based
-    - Sentence Based
+        - Word Based
+        - Sentence Based
 7.   More powerful package
-    - Stanford NLP NER
-    - Spacy
+        - Stanford NLP NER
+        - Spacy
