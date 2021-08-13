@@ -15,3 +15,11 @@ In order to understand the meaning from a given text (tweet, document), it is im
 7.   More powerful package
         - Stanford NLP NER
         - Spacy
+
+
+## References :
+
+## Folow us:
+
+
+## Greating:
